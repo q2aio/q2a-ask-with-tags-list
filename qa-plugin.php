@@ -3,7 +3,7 @@
 /*
 	Plugin Name: Ask with Tags list from the URL parameter
 	Plugin URI: https://github.com/PublicityPort/q2a-ask-with-tags-list
-	Plugin Description: Allows user to load a page with tags included. E.g. Like users can preselect category, /ask?cat=1 users can now select tags. /ask?tags=tag1,tag2,tag3
+	Plugin Description: Allows users to load an Ask page with Tags lists through URL. E.g. Like visitors can preselect category using 'cat' parameter in the URL /ask?cat=1, users can now select Tags list through 'tags' parameter in the URL. /ask?tags=tag1,tag2,tag-3
 	Plugin Version: 1.0
 	Plugin Date: 2017-11-23
 	Plugin Author: Publicity Port
