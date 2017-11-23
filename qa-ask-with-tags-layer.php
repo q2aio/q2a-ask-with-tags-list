@@ -12,6 +12,7 @@ class qa_html_theme_layer extends qa_html_theme_base {
 							$fields['tags'] = $tags;
 							unset($form['fields']);
 							$form['fields'] = $fields;
+							var_dump($tags);
 						}
 					}
 				}
