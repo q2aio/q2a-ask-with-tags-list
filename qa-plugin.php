@@ -10,7 +10,7 @@
 	Plugin Author URI: https://publicityport.com/
 	Plugin License: GPLv2
 	Plugin Minimum Question2Answer Version: 1.7.4
-	Plugin Update Check URI: 
+	Plugin Update Check URI: https://raw.githubusercontent.com/PublicityPort/q2a-ask-with-tags-list/master/qa-plugin.php
 
 */
 
